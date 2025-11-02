@@ -1,4 +1,4 @@
-# 🌍 Forecasting Tourism Flows: Predictive Analytics 2025 (Mexico–USA)
+# 🌍 Forecasting Tourism Flows: Predictive Analytics (Mexico–USA)
 
 ## 📖 Project Overview
 This project focuses on **forecasting short-term U.S. tourist arrivals to Mexico** using real-world tourism and macroeconomic data.  
